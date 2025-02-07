@@ -12,12 +12,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
     "ios": {
       "bundleIdentifier": "com.native.SaizeSlot",
       "buildNumber": "100",
