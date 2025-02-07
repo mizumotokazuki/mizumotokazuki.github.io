@@ -12,10 +12,22 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
+      "bundleIdentifier": "com.native.SaizeSlot",
+      "buildNumber": "100",
+      "icon": "./assets/icon.png",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.native.SaizeSlot",
+      "versionCode": 100,
+      "icon": "./assets/icon.png",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
